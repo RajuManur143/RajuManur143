@@ -1,5 +1,5 @@
 # 💫 About Me:
-student @Government Engineering College Karwar<br>I'm currently learning OOPS with python and frames works
+Aspiring software developement engineering | CSE | currently intern @ Algorithms 365
 
 
 ## 🌐 Socials:
