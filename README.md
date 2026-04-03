@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developement engineering | CSE | currently intern @ Algorithms 365
+ Full Stack Engineer | CSE | currently intern @ Algorithms 365
 
 
 ## 🌐 Socials:
