@@ -14,11 +14,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RajuManur143&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -115,20 +110,6 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation"
-    src="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
