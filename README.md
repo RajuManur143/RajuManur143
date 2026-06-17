@@ -123,27 +123,65 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 
 ---
 
-# 🏆 Featured Projects
+# 🏆 Projects
 
-## 🏥 JanaAushadhi – For Better Health
+<div align="center">
 
-**Tech Stack:** Java • Spring Boot • Hibernate • JPA • MySQL • REST APIs
+# 🏥 JanaAushadhi – For Better Health
 
-* Developed 15+ RESTful APIs for medicine inventory, order processing, and customer management, reducing manual operations by 70%.
-* Implemented role-based authentication and authorization for Admin, Pharmacist, and Customer modules, securing critical business workflows.
-* Optimized Hibernate and JPA queries, improving medicine search performance by 40%.
-* Designed an inventory tracking system capable of managing 1000+ medicine records with real-time stock monitoring.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=15%2B+RESTful+APIs;1000%2B+Medicine+Records+Managed;Role-Based+Authentication+System;40%25+Faster+Medicine+Search;Spring+Boot+%7C+Hibernate+%7C+MySQL" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+
+* ✅ Developed **15+ RESTful APIs** for medicine inventory, customer management, and order processing, reducing manual operations by **70%**.
+* ✅ Implemented **Role-Based Access Control (RBAC)** for Admin, Pharmacist, and Customer modules, securing critical business workflows.
+* ✅ Optimized Hibernate and JPA queries, improving medicine search performance by **40%**.
+* ✅ Designed an inventory management system capable of tracking **1000+ medicine records** with real-time stock monitoring.
 
 ---
 
-## 🚌 Where Is My Bus – Real-Time Bus Tracking System
+<div align="center">
 
-**Tech Stack:** Java • Spring Boot • MySQL • REST APIs • GPS Integration
+# 🚌 Where Is My Bus – Real-Time Bus Tracking System
 
-* Engineered a real-time tracking platform capable of monitoring 100+ buses simultaneously.
-* Developed GPS-powered APIs that improved arrival prediction accuracy by 60%.
-* Implemented route management services supporting 50+ transportation routes.
-* Built passenger notification modules providing live status updates and reducing commuter uncertainty.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Real-Time+GPS+Tracking;100%2B+Buses+Monitored;60%25+Better+Arrival+Predictions;50%2B+Routes+Managed;Spring+Boot+%7C+REST+API+%7C+MySQL" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+
+* ✅ Engineered a real-time tracking platform capable of monitoring **100+ buses simultaneously**.
+* ✅ Developed GPS-powered APIs that improved arrival prediction accuracy by **60%**.
+* ✅ Implemented route management services supporting **50+ transportation routes**.
+* ✅ Built passenger notification modules providing live status updates and improving commuter experience.
+
+---
+
+<div align="center">
+
+### 📊 Impact Summary
+
+| Project            | Scale                  | Achievement             |
+| ------------------ | ---------------------- | ----------------------- |
+| 🏥 JanaAushadhi    | 1000+ Medicine Records | 40% Faster Search       |
+| 🚌 Where Is My Bus | 100+ Buses Tracked     | 60% Better ETA Accuracy |
+
+</div>
+
 
 ---
 
