@@ -1,5 +1,5 @@
 # 💫 About Me:
- Full Stack Engineer | CSE | currently intern @ Algorithms 365
+Java Developer & DevOps learner | Spring Boot | Hibernate | MySQL | REST API | Data Structures & Algorithms | OOPs | Git | Maven | Backend Development | Software Engineer
 
 
 ## 🌐 Socials:
