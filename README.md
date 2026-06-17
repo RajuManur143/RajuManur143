@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Raju Manur
 
-### Java Backend Developer | Spring Boot Developer | DevOps Enthusiast
+### Java Developer & DevOps Learner | Spring Boot | Hibernate | MySQL | REST API | Data Structures & Algorithms | OOPs | Git | Maven | Backend Development | Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Engineer;DevOps+Learner;Open+to+Software+Engineering+Roles" />
 
