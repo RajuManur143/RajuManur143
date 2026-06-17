@@ -14,9 +14,6 @@
 
 ---
 
-
----
-
 # 👨‍💻 About Me
 
 Software Engineer specializing in Java Backend Development with hands-on experience in building scalable REST APIs, database-driven applications, and enterprise-grade backend systems using Spring Boot and MySQL.
@@ -109,10 +106,6 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 </div>
 
 ---
-
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
