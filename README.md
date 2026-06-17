@@ -141,10 +141,10 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 </div>
 
 
-* ✅ Developed **15+ RESTful APIs** for medicine inventory, customer management, and order processing, reducing manual operations by **70%**.
-* ✅ Implemented **Role-Based Access Control (RBAC)** for Admin, Pharmacist, and Customer modules, securing critical business workflows.
-* ✅ Optimized Hibernate and JPA queries, improving medicine search performance by **40%**.
-* ✅ Designed an inventory management system capable of tracking **1000+ medicine records** with real-time stock monitoring.
+* Developed **15+ RESTful APIs** for medicine inventory, customer management, and order processing, reducing manual operations by **70%**.
+* Implemented **Role-Based Access Control (RBAC)** for Admin, Pharmacist, and Customer modules, securing critical business workflows.
+* Optimized Hibernate and JPA queries, improving medicine search performance by **40%**.
+* Designed an inventory management system capable of tracking **1000+ medicine records** with real-time stock monitoring.
 
 ---
 
@@ -164,10 +164,10 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 </div>
 
 
-* ✅ Engineered a real-time tracking platform capable of monitoring **100+ buses simultaneously**.
-* ✅ Developed GPS-powered APIs that improved arrival prediction accuracy by **60%**.
-* ✅ Implemented route management services supporting **50+ transportation routes**.
-* ✅ Built passenger notification modules providing live status updates and improving commuter experience.
+* Engineered a real-time tracking platform capable of monitoring **100+ buses simultaneously**.
+* Developed GPS-powered APIs that improved arrival prediction accuracy by **60%**.
+* Implemented route management services supporting **50+ transportation routes**.
+* Built passenger notification modules providing live status updates and improving commuter experience.
 
 ---
 
