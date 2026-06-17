@@ -197,9 +197,17 @@ Software Engineer specializing in Java Backend Development with hands-on experie
 
 <br>
 
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajuManur143&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
