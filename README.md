@@ -1,131 +1,114 @@
+<div align="center">
+
 # Hi 👋, I'm Raju Manur
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;DevOps+Learner;Problem+Solver;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+### Java Backend Developer | Spring Boot Developer | DevOps Enthusiast
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RajuManur143&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Engineer;DevOps+Learner;Open+to+Software+Engineering+Roles" />
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=RajuManur143&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-* 🎓 Computer Science Graduate
-* 💻 Java Backend Developer
-* 🌱 Learning DevOps & Cloud Technologies
-* 🔭 Building Spring Boot REST APIs
-* 🧠 Solving DSA Problems Daily
-* 📫 Email: **[rajumanur343@gmail.com](mailto:rajumanur343@gmail.com)**
-* ⚡ Fun Fact: I love building scalable backend systems
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
 
-<p align="left">
-<a href="mailto:rajumanur343@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/RajuManur143">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+Software Engineer specializing in Java Backend Development with hands-on experience in building scalable REST APIs, database-driven applications, and enterprise-grade backend systems using Spring Boot and MySQL.
+
+* 💻 Strong foundation in Java, Spring Boot, Hibernate, JPA, and REST APIs
+* 🧠 Passionate about Data Structures & Algorithms
+* 🔧 Experienced in designing backend architectures and database optimization
+* 🌱 Currently learning DevOps, Docker, AWS, and Microservices
+* 🎯 Actively seeking Software Engineer opportunities
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,git,github,maven,hibernate,postman,vscode" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-</p>
+### Backend
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-## 🏆 Competitive Programming
+### Database
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
----
+### Tools
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RajuManur143&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajuManur143&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajuManur143&layout=compact&theme=tokyonight" />
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajuManur143&theme=tokyo-night" />
+## 🏥 JanaAushadhi – For Better Health
 
----
+**Tech Stack:** Java • Spring Boot • Hibernate • JPA • MySQL • REST APIs
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Backend
-
-Spring Boot | MySQL | Hibernate | JWT Authentication
-
-### 🎓 Student Management System
-
-Spring Boot | REST API | MySQL
-
-### 💼 Employee Management System
-
-Java | Spring Boot | JPA | MySQL
-
-### 📚 Library Management System
-
-Java | JDBC | MySQL
-
-### 🌐 Portfolio Website
-
-React | HTML | CSS
+* Developed 15+ RESTful APIs for medicine inventory, order processing, and customer management, reducing manual operations by 70%.
+* Implemented role-based authentication and authorization for Admin, Pharmacist, and Customer modules, securing critical business workflows.
+* Optimized Hibernate and JPA queries, improving medicine search performance by 40%.
+* Designed an inventory tracking system capable of managing 1000+ medicine records with real-time stock monitoring.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚌 Where Is My Bus – Real-Time Bus Tracking System
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RajuManur143&theme=radical&row=1&column=7" />
-</p>
+**Tech Stack:** Java • Spring Boot • MySQL • REST APIs • GPS Integration
 
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+* Engineered a real-time tracking platform capable of monitoring 100+ buses simultaneously.
+* Developed GPS-powered APIs that improved arrival prediction accuracy by 60%.
+* Implemented route management services supporting 50+ transportation routes.
+* Built passenger notification modules providing live status updates and reducing commuter uncertainty.
 
 ---
 
-## 🔥 Current Focus
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajuManur143&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajuManur143&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajuManur143&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajuManur143&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🧠 DSA & Problem Solving
 
 ```java
-class RajuManur {
+class SoftwareEngineer {
 
-    String role = "Java Backend Developer";
+    String name = "Raju Manur";
 
     String[] skills = {
         "Java",
@@ -133,17 +116,33 @@ class RajuManur {
         "Hibernate",
         "REST APIs",
         "MySQL",
-        "DSA",
-        "Git",
-        "Maven"
+        "DSA"
     };
 
-    String learning = "DevOps + AWS";
+    String currentFocus = "Backend Development + DevOps";
 
-    String goal = "Software Engineer @ Top Product Company";
+    String careerGoal = "Software Engineer";
 }
 ```
 
 ---
 
-### ⭐ If you like my work, give a star to my repositories!
+# 🌐 Connect With Me
+
+📧 Email: [rajumanur343@gmail.com](mailto:rajumanur343@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/rajumanur/
+
+💻 GitHub: https://github.com/RajuManur143
+
+🧩 LeetCode: https://leetcode.com/u/RAJUMANUR/
+
+---
+
+<div align="center">
+
+### "Building scalable backend systems, one API at a time."
+
+⭐ Thank you for visiting my profile.
+
+</div>
