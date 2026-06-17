@@ -17,32 +17,6 @@
 
 <div align="center">
 
-## 🔥 Coding Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RajuManur143&theme=tokyonight&hide_border=true&border_radius=10" width="800"/>
-
-<br><br>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/RajuManur143/RajuManur143/output/github-contribution-grid-snake.svg"> </picture>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Consistency+beats+intensity.;Building+scalable+backend+systems.;Java+%7C+Spring+Boot+%7C+Microservices.;Always+learning%2C+always+improving." />
-
-</div>
-
----
-
 
 # 👨‍💻 About Me
 
